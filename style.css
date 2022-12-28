@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700&display=swap');
 
 :root{
-  --red:#ff3838;
+  --red: #ff3838;
   --white: #f7f7f7;
   --black: #010101;
   --grey: #929292;
@@ -12,7 +12,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  outline: 1px solid red;
+  outline: none;
   text-decoration: none;
   text-transform: capitalize;
   transition: all .2s linear;
